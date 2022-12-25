@@ -1,2 +1,3 @@
 console.log("idk")
 console.log("Two times")
+idk("idk")
